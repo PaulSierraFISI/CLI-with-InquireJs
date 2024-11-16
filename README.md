@@ -15,7 +15,7 @@ The application simplifies task management by storing data in a JSON file, creat
 
 
 ```bash
-git clone https://github.com/PaulSierraFISI/PaulSierra-BackendMentor.git
+git clone [https://github.com/PaulSierraFISI/PaulSierra-BackendMentor.git](https://github.com/PaulSierraFISI/CLI-with-InquireJs)
 cd "Rastreador de Tareas mediante CLI"
 # To install the dependencies
 npm install
